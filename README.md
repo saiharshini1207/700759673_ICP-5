@@ -18,7 +18,7 @@ CODE EXPLANATION LINK:
 4. it generates a classification report using the classification_report function from scikit-learn, which provides metrics such as precision, recall, and F1-score for each class. Finally, it prints the accuracy again to ensure visibility.
 
 
-#COMPARISON BETWEEN NAIVE BAYES AND SVM METHOD:
+# COMPARISON BETWEEN NAIVE BAYES AND SVM METHOD:
 
 The SVM achieved better accuracy with an accuracy score of 0.6769 compared to the Naïve Bayes classifier, which had an accuracy of 0.3077.
 
